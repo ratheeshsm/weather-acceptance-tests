@@ -3,10 +3,15 @@ This is the user acceptance automation for testing 5 day weather forecast for a 
 ### Test Automation Folder Structure
 
 Feature Files             - /weather-acceptance-tests/src/test/resources/features
+
 Step Definition Files     - /weather-acceptance-tests/src/test/java/stepdefs
+
 Runner Class              - /weather-acceptance-tests/src/test/java/runner
+
 Page Actions and Locators - /weather-acceptance-tests/src/main/java
+
 Drivers and Properties    - /weather-acceptance-tests/src/main/resources/utilities
+
 Cucumner reports          - /weather-acceptance-tests/target/cucumber
 
 ### How to build and execute the solution
