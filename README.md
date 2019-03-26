@@ -14,7 +14,7 @@ Drivers and Properties    - /weather-acceptance-tests/src/main/resources/utiliti
 
 Cucumner reports          - /weather-acceptance-tests/target/cucumber
 
-### How to build and execute the solution
+### Prerequisite Requirements
 
   * You will need maven to be installed
   * You will need Chrome to be installed
